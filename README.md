@@ -20,7 +20,7 @@ To use the Alarm Clock, follow these steps:
 1. **Open the Alarm Clock**: Open the `index.html` file in your preferred web browser.
 
 2. **Set the Alarm**:
-   - Enter the desired alarm time in the format `yyyy-mm-dd hh:mm:ss`.
+   - Enter the desired alarm time from the `Datetime Input`.
    - Click the "Set Alarm" button.
 
 3. **Receive Feedback**:
