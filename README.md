@@ -1,6 +1,6 @@
 # Basic Alarm Clock using HTML, CSS, and JavaScript
 
-![Demo](demo-image.png)
+![Demo](Demo Image.png)
 
 ## Overview
 
